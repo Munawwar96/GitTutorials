@@ -1,0 +1,25 @@
+Task 1
+
+Create a directory RapidApplicationDevelopment
+
+Go to the directory RapidApplicationDevelopment
+
+Create another directory call Modulel
+
+Go to the directory Modulel
+
+create a file index.html
+
+Add this file to your GitHub account
+
+Modify the index.html as a welcome page of your Modulel
+
+If you have use any .css or .js files for the design
+
+Create a directory resources inside Modulel
+
+Inside the resources create two directories css,js
+
+Move your .css and .js files inside those directory
+
+Push all of your changes to your temot GitHub account
